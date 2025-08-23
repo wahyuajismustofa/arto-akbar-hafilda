@@ -2230,6 +2230,7 @@ display: flex
     background-color: var(--background-secondary);
     max-width: 350px;
     margin: auto;
+    margin-bottom: 30px;
 }
 /* Bank Detail */
 .gift-bank-wrap .bank-detail {
